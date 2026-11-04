@@ -23,7 +23,7 @@ Each response was evaluated using five criteria, with scores ranging from 1 to 5
 | Accuracy | 5 | 1 |
 | Relevance | 5 | 2 |
 | Clarity | 5 | 3 |
-| Instruction Following | 5 | 2 |
+| Instruction Following | 4 | 2 |
 | Completeness | 4 | 2 |
 | **Total** | **24/25** | **10/25** |
 
