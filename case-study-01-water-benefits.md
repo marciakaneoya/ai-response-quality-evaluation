@@ -25,7 +25,7 @@ Each response was evaluated using five criteria, with scores ranging from 1 to 5
 | Clarity | 5 | 3 |
 | Instruction Following | 4 | 2 |
 | Completeness | 4 | 2 |
-| **Total** | **24/25** | **10/25** |
+| **Total** | **23/25** | **10/25** |
 
 ## 4. Evaluation Analysis
 
