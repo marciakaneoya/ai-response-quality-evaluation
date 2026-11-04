@@ -21,11 +21,11 @@ Each response was evaluated using five criteria, with scores ranging from 1 to 5
 | Criterion | Response A | Response B |
 |---|---:|---:|
 | Accuracy | 5 | 1 |
-| Relevance | 5 | 2 |
-| Clarity | 5 | 3 |
+| Relevance | 5 | 4 |
+| Clarity | 5 | 5 |
 | Instruction Following | 4 | 2 |
 | Completeness | 4 | 2 |
-| **Total** | **23/25** | **10/25** |
+| **Total** | **23/25** | **14/25** |
 
 ## 4. Evaluation Analysis
 
