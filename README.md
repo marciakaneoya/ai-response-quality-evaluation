@@ -28,6 +28,12 @@ Evaluation of factual accuracy and identification of misleading health informati
 
 Evaluation of instruction adherence, professional tone, word limits, and unsupported claims.
 
+### Case Study 03 — Data Analysis
+
+[View Case Study 03: Detecting Errors in Data Analysis](case-study-03-data-analysis.md)
+
+Evaluation of numerical accuracy, logical consistency, and unsupported conclusions in AI-generated data analysis.
+
 ## Methodology
 
 Each response is evaluated independently using a score from 1 to 5 for each criterion.
@@ -36,4 +42,4 @@ The scores are supported by written justifications and comparative analysis.
 
 ## Project Status
 
-Two independent case studies completed. More examples will be added as the portfolio develops.
+Three independent case studies completed. More examples will be added as the portfolio develops.
