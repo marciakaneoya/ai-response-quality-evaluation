@@ -16,6 +16,20 @@ The responses are assessed using five criteria:
 4. **Instruction Following:** Does the response follow the user's instructions?
 5. **Completeness:** Does the response provide all the necessary information?
 
+## Evaluation Scale
+
+Each criterion is scored on a scale from 1 to 5, based on how well the response meets the evaluation requirements.
+
+| Score | Rating | Description |
+|---|---|---|
+| 1 | Very Poor | Major errors or failure to meet the criterion. |
+| 2 | Poor | Significant issues that affect response quality. |
+| 3 | Acceptable | Partially meets the criterion, with noticeable limitations. |
+| 4 | Good | Meets the criterion well, with minor issues. |
+| 5 | Excellent | Fully meets the criterion, with no relevant issues identified. |
+
+The maximum score is 25 points per response. Scores are supported by specific observations and written justifications to promote consistent, evidence-based evaluations.
+
 ## Case Studies
 
 ### Case Study 01 — Factual Accuracy
