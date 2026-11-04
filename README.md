@@ -26,7 +26,7 @@ Each criterion is scored on a scale from 1 to 5, based on how well the response 
 | 2 | Poor | Significant issues that affect response quality. |
 | 3 | Acceptable | Partially meets the criterion, with noticeable limitations. |
 | 4 | Good | Meets the criterion well, with minor issues. |
-| 5 | Excellent | Fully meets the criterion, with no relevant issues identified. |
+| 5 | Excellent | Fully meets the criterion, with no significant issues identified. |
 
 The maximum score is 25 points per response. Scores are supported by specific observations and written justifications to promote consistent, evidence-based evaluations.
 
@@ -50,9 +50,17 @@ Evaluation of numerical accuracy, logical consistency, and unsupported conclusio
 
 ## Methodology
 
-Each response is evaluated independently using a score from 1 to 5 for each criterion.
+Each response is evaluated independently against the same user prompt and evaluation criteria.
 
-The scores are supported by written justifications and comparative analysis.
+The evaluation process includes:
+
+1. Reviewing the response against the original instructions.
+2. Identifying factual errors, omissions, and unsupported claims.
+3. Assessing each quality criterion individually.
+4. Assigning a score from 1 to 5, supported by specific evidence and written justification.
+5. Comparing the responses to identify differences in overall quality.
+
+This approach aims to promote consistent, transparent, and evidence-based evaluations.
 
 ## Project Status
 
