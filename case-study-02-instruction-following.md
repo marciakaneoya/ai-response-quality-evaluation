@@ -40,12 +40,12 @@ Each response was evaluated using five criteria, with scores ranging from 1 to 5
 
 | Criterion | Response A | Response B |
 |---|---:|---:|
-| Accuracy | 4 | 2 |
-| Relevance | 5 | 4 |
+| Accuracy | 4 | 4 |
+| Relevance | 5 | 5 |
 | Clarity | 5 | 5 |
 | Instruction Following | 5 | 2 |
-| Completeness | 5 | 4 |
-| **Total** | **24/25** | **17/25** |
+| Completeness | 5 | 5 |
+| **Total** | **24/25** | **21/25** |
 
 ## 4. Evaluation Analysis
 
@@ -53,7 +53,7 @@ Each response was evaluated using five criteria, with scores ranging from 1 to 5
 
 Response A is the better choice because it follows the user's main instructions. It uses a friendly and professional tone, stays within the 80-word limit, and does not offer a refund or discount.
 
-Response B also stays within the word limit, but it violates an explicit instruction by offering a 15% discount. Its tone is more informal than requested. Additionally, it states that the order should arrive soon without any confirmed delivery information.
+Response B also stays within the word limit, but it violates an explicit instruction by offering a 15% discount. Its tone is more informal than requested. Additionally, it states that the order should arrive soon without any confirmed delivery information. Although the response is relevant and complete as an email, these issues reduce its overall quality.
 
 Response A also has a minor accuracy issue: it claims that the order is being processed, although this information was not provided in the prompt.
 
